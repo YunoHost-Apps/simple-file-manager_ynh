@@ -1,7 +1,7 @@
 packaging_format = 2
 
 id = "simple-file-manager"
-name = "simple-file-manager"
+name = "Simple File Manager"
 description.en = "Simple PHP file manager"
 description.fr = "Gestionnaire de fichiers PHP simple"
 
