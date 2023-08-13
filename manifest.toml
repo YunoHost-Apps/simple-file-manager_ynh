@@ -1,0 +1,59 @@
+packaging_format = 2
+
+id = "simple-file-manager"
+name = "simple-file-manager"
+description.en = "Simple PHP file manager"
+description.fr = "Gestionnaire de fichiers PHP simple"
+
+version = "1.0~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "MIT"
+code = "https://github.com/jcampbell1/simple-file-manager"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+ldap = false
+sso = false
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/files"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+    #[install.password]
+    #help.en = "Use the help field to add an information for the admin about this question."
+    #help.fr = "Utilisez le champ aide pour ajouter une information à l'intention de l'administrateur à propos de cette question."
+    #type = "password"
+
+[resources]
+
+    [resources.sources]
+
+        [resources.sources.main]
+        url = "https://github.com/jcampbell1/simple-file-manager/archive/refs/heads/master.zip"
+        sha256 = "53317c8e3e29b07cd9f016533cd1431dad7cc4f51a7f78db65efcf8a28a15dbc"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.apt]
+    packages = "php8.2-fpm"
