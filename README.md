@@ -37,7 +37,7 @@ A Simple PHP file manager. The code is a single php file.
 ## Documentation and resources
 
 * Upstream app code repository: <https://github.com/jcampbell1/simple-file-manager>
-* YunoHost documentation for this app: <https://yunohost.org/app_simple-file-manager>
+* YunoHost Store: <https://apps.yunohost.org/app/simple-file-manager>
 * Report a bug: <https://github.com/YunoHost-Apps/simple-file-manager_ynh/issues>
 
 ## Developer info
