@@ -37,7 +37,7 @@ Un gestionnaire de fichiers PHP simple. Le code est un seul fichier php.
 ## Documentations et ressources
 
 * Dépôt de code officiel de l’app : <https://github.com/jcampbell1/simple-file-manager>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_simple-file-manager>
+* YunoHost Store: <https://apps.yunohost.org/app/simple-file-manager>
 * Signaler un bug : <https://github.com/YunoHost-Apps/simple-file-manager_ynh/issues>
 
 ## Informations pour les développeurs
