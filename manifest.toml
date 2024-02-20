@@ -12,6 +12,7 @@ maintainers = []
 [upstream]
 license = "MIT"
 code = "https://github.com/jcampbell1/simple-file-manager"
+autoupdate.strategy = "latest_github_commit"
 
 [integration]
 yunohost = ">= 11.2"
