@@ -34,6 +34,10 @@ Un gestionnaire de fichiers PHP simple. Le code est un seul fichier php.
 
 ![Capture d’écran de Simple File Manager](./doc/screenshots/screenshot.png)
 
+## :red_circle: Anti-fonctionnalités
+
+- **Application non maintenue **: Ce logiciel n'est plus maintenu. Attendez-vous à ce qu'il ne fonctionne plus avec le temps, et que l'on découvre des failles de sécurité qui ne seront pas corrigées, etc.
+
 ## Documentations et ressources
 
 - Dépôt de code officiel de l’app : <https://github.com/jcampbell1/simple-file-manager>
