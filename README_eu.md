@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Simple File Manager YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/simple-file-manager.svg)](https://dash.yunohost.org/appci/app/simple-file-manager) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/simple-file-manager.svg)](https://ci-apps.yunohost.org/ci/apps/simple-file-manager/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.maintain.svg)
 
 [![Instalatu Simple File Manager YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=simple-file-manager)
 

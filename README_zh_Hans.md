@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Simple File Manager
 
-[![集成程度](https://dash.yunohost.org/integration/simple-file-manager.svg)](https://dash.yunohost.org/appci/app/simple-file-manager) ![工作状态](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/simple-file-manager.svg)](https://ci-apps.yunohost.org/ci/apps/simple-file-manager/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.maintain.svg)
 
 [![使用 YunoHost 安装 Simple File Manager](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=simple-file-manager)
 

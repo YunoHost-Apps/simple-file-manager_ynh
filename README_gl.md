@@ -5,7 +5,7 @@ NON debe editarse manualmente.
 
 # Simple File Manager para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/simple-file-manager.svg)](https://dash.yunohost.org/appci/app/simple-file-manager) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/simple-file-manager.svg)](https://ci-apps.yunohost.org/ci/apps/simple-file-manager/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/simple-file-manager.maintain.svg)
 
 [![Instalar Simple File Manager con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=simple-file-manager)
 
