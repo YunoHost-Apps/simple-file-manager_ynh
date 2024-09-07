@@ -28,7 +28,7 @@ Un gestionnaire de fichiers PHP simple. Le code est un seul fichier php.
 - L'interface est utilisable depuis un iPad
 - Protection XSRF et mot de passe en option.
 
-**Version incluse :** 1.0~ynh1
+**Version incluse :** 1.0~ynh2
 
 ## Captures d’écran
 

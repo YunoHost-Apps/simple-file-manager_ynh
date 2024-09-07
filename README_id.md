@@ -28,7 +28,7 @@ A Simple PHP file manager. The code is a single php file.
 - The interface is usable from an iPad
 - XSRF protection, and an optional password.
 
-**Versi terkirim:** 1.0~ynh1
+**Versi terkirim:** 1.0~ynh2
 
 ## Tangkapan Layar
 
