@@ -46,7 +46,7 @@ A Simple PHP file manager. The code is a single php file.
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/simple-file-manager_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/simple-file-manager_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
